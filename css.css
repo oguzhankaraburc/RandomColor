@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: darkslategray;
+}
+
+button {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px;
+    border: 0px;
+    background-color: beige;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 10px;
+    
+}
